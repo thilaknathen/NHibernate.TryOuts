@@ -1,0 +1,3 @@
+[submodule "External/NHibernate"]
+	path = External/NHibernate
+	url = https://github.com/thilaknathen/nhibernate-core.git
